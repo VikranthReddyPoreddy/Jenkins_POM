@@ -7,6 +7,7 @@ public class SampleProject {
 	public void test()
 	{
 		System.out.println("method in class : SampleProject");
+		SampleProject.rerun();
 	}
 
 }
