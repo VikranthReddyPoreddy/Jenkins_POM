@@ -7,6 +7,7 @@
       <class name="Sample1.JenkinsSampleProject.SampleProject_2"/>
        <class name="Sample1.JenkinsSampleProject.SampleProject_3"/>
         <class name="Sample1.JenkinsSampleProject.CreatingFolder"/>
+        <class name="Sample1.JenkinsSampleProject.SampleJenkins"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
